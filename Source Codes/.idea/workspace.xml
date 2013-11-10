@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f59bf90f-a8cb-483b-91aa-a01994f54707" name="Default" comment="" />
+    <ignored path="CamsServer.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/pom.xml" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381587129189" ignored="false" />
+    <file path="/Particulars.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381418807015" ignored="false" />
+    <file path="/Permission.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1380518326977" ignored="false" />
+    <file path="/Account.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1380529953664" ignored="false" />
+    <file path="/Hawker.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381468109402" ignored="false" />
+    <file path="/Stall.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381572747186" ignored="false" />
+    <file path="/Canteen.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381572186116" ignored="false" />
+    <file path="/Menu.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381506302403" ignored="false" />
+    <file path="/MenulineOnSale.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1380521427429" ignored="false" />
+    <file path="/fragment.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381498758335" ignored="false" />
+    <file path="/Order.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381502152145" ignored="false" />
+    <file path="/Orderline.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381489652959" ignored="false" />
+    <file path="/MenulineReference.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1380521502807" ignored="false" />
+    <file path="/ParticularRepository.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1380525485277" ignored="false" />
+    <file path="/AccountRepository.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381491354233" ignored="false" />
+    <file path="/HawkerRepository.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1380602559808" ignored="false" />
+    <file path="/StallRepository.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381571972472" ignored="false" />
+    <file path="/MenuRepository.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381491864612" ignored="false" />
+    <file path="/MenulineRepository.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381127830406" ignored="false" />
+    <file path="/Menuline.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381414307258" ignored="false" />
+    <file path="/MenulineRefRepository.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1380526732572" ignored="false" />
+    <file path="/OrderRepository.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1380608058235" ignored="false" />
+    <file path="/OrderlineRepository.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381492102404" ignored="false" />
+    <file path="/HawkerRepositoryTest.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381471022546" ignored="false" />
+    <file path="/SpringConfiguration.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381587816758" ignored="false" />
+    <file path="/Dummy.txt" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1380529968991" ignored="false" />
+    <file path="/StallRepositoryTest.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381135714874" ignored="false" />
+    <file path="/CanteenRepository.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381572171782" ignored="false" />
+    <file path="/OrderRepositoryTest.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381135809352" ignored="false" />
+    <file path="/AccountService.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1380563868382" ignored="false" />
+    <file path="/UserService.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381571111384" ignored="false" />
+    <file path="/OrderService.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1380552451921" ignored="false" />
+    <file path="/CanteenService.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1380604639208" ignored="false" />
+    <file path="/MenuEditService.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1380552267133" ignored="false" />
+    <file path="/AccountServiceImpl.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1380619279472" ignored="false" />
+    <file path="/CanteenServiceImpl.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1380621205642" ignored="false" />
+    <file path="/MenuServiceImpl.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381581814771" ignored="false" />
+    <file path="/OrderServiceImpl.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1380612791927" ignored="false" />
+    <file path="/EntityNotFoundException.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1380609557841" ignored="false" />
+    <file path="/AccountNotFoundException.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1380609639002" ignored="false" />
+    <file path="/HawkerNotFoundException.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1380610382266" ignored="false" />
+    <file path="/CanteenNotFound.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1380610883211" ignored="false" />
+    <file path="/ParticularNotFoundException.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1380611045814" ignored="false" />
+    <file path="/ParticularsNotFoundException.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1380611026276" ignored="false" />
+    <file path="/StallNotFoundException.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1380611285351" ignored="false" />
+    <file path="/MenulineNotFoundException.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1380611856699" ignored="false" />
+    <file path="/OrderNotFoundException.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1380612708731" ignored="false" />
+    <file path="/ServiceTest.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1380621474132" ignored="false" />
+    <file path="/InsufficientBalanceException.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1380619355268" ignored="false" />
+    <file path="/MenuService.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381568900037" ignored="false" />
+    <file path="/Security.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381507376674" ignored="false" />
+    <file path="/LoginInfo.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381419081377" ignored="false" />
+    <file path="/Login.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381471520386" ignored="false" />
+    <file path="/Role.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381483272558" ignored="false" />
+    <file path="/LoginRepository.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381471410662" ignored="false" />
+    <file path="/RoleRepository.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381593640209" ignored="false" />
+    <file path="/User.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381593488909" ignored="false" />
+    <file path="/UserAccount.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381571410082" ignored="false" />
+    <file path="/UserContact.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381482864971" ignored="false" />
+    <file path="/ContactType.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381482760622" ignored="false" />
+    <file path="/UserPermission.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381506360859" ignored="false" />
+    <file path="/UserRole.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381593610691" ignored="false" />
+    <file path="/mergeSort.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381487755835" ignored="false" />
+    <file path="/MenuReference.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381492008869" ignored="false" />
+    <file path="/UserRepository.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381491018038" ignored="false" />
+    <file path="/ContactRepository.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381569387302" ignored="false" />
+    <file path="/MenuRefRepository.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381491952224" ignored="false" />
+    <file path="/UserCrudTest.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381504264401" ignored="false" />
+    <file path="/PermissionRepository.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381492721961" ignored="false" />
+    <file path="/StallCrudTest.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381499194039" ignored="false" />
+    <file path="/OrderCrudTest.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381502642191" ignored="false" />
+    <file path="/shiro.ini" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381508406032" ignored="false" />
+    <file path="/ShiroIntegrationTest.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381508733999" ignored="false" />
+    <file path="/InfrastructureService.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381572358297" ignored="false" />
+    <file path="/SalesService.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381569176762" ignored="false" />
+    <file path="/RootService.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381569733730" ignored="false" />
+    <file path="/UserServiceImpl.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381628505254" ignored="false" />
+    <file path="/InfrastructureServiceImpl.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381591669763" ignored="false" />
+    <file path="/SalesServiceImpl.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381581826436" ignored="false" />
+    <file path="/MenuServiceAdvices.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381592711987" ignored="false" />
+    <file path="/AspectTest.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381590011713" ignored="false" />
+    <file path="/InfrastructureServiceAdvices.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381596297290" ignored="false" />
+    <file path="/UserServiceAdvices.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381596604227" ignored="false" />
+    <file path="/SalesServiceAdvices.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381596134588" ignored="false" />
+    <file path="/SecurityUtils.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381628437418" ignored="false" />
+    <file path="/MockDataEditor.java" changelist="f59bf90f-a8cb-483b-91aa-a01994f54707" time="1381631010426" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="CamsServer" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/solid5ive/cams/configuration/SpringConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/test/java/AspectTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/solid5ive/cams/service/internals/InfrastructureServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/solid5ive/cams/data/entities/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/solid5ive/cams/data/entities/UserRole.java" />
+        <option value="$PROJECT_DIR$/src/main/java/solid5ive/cams/data/repositories/RoleRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/solid5ive/cams/service/internals/MenuServiceAdvices.java" />
+        <option value="$PROJECT_DIR$/src/main/java/solid5ive/cams/service/internals/SalesServiceAdvices.java" />
+        <option value="$PROJECT_DIR$/src/main/java/solid5ive/cams/service/internals/InfrastructureServiceAdvices.java" />
+        <option value="$PROJECT_DIR$/src/main/java/solid5ive/cams/security/SecurityRuntime.java" />
+        <option value="$PROJECT_DIR$/src/main/java/solid5ive/cams/service/internals/UserServiceAdvices.java" />
+        <option value="$PROJECT_DIR$/src/main/java/solid5ive/cams/security/SecurityUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/solid5ive/cams/service/internals/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/solid5ive/cams/demo/MockDataEditor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/solid5ive/cams/demo/MockDataEditor.form" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="CamsServer" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1920" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CamsServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CamsServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CamsServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CamsServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CamsServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CamsServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CamsServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CamsServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CamsServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cams" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="project.propGUI" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="solid5ive.cams.exception" />
+      <recent name="solid5ive.cams.solid5ive.cams.data.entities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MockDataEditor">
+    <configuration default="false" name="ServiceTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="CamsServer" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ServiceTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="All in CamsServer" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="CamsServer" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MockDataEditor" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="solid5ive.cams.demo.MockDataEditor" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CamsServer" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.ServiceTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.All in CamsServer" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MockDataEditor" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.MockDataEditor" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.All in CamsServer" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.ServiceTest" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f59bf90f-a8cb-483b-91aa-a01994f54707" name="Default" comment="" />
+      <created>1380516253805</created>
+      <updated>1380516253805</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1920" height="970" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1814301" sideWeight="0.82705885" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12646745" sideWeight="0.6882353" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.07524013" sideWeight="0.82705885" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2523474" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1398079" sideWeight="0.6882353" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31176472" sideWeight="0.27481323" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497332" sideWeight="0.82746476" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.11045891" sideWeight="0.6882353" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.16755603" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20010673" sideWeight="0.82705885" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17294118" sideWeight="0.72518677" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/solid5ive/cams/data/repositories/RoleRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="44" selection-start="427" selection-end="427" vertical-scroll-proportion="0.2189781">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/solid5ive/cams/service/contracts/InfrastructureService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="28" selection-start="688" selection-end="699" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/solid5ive/cams/service/contracts/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="38" selection-start="1278" selection-end="1300" vertical-scroll-proportion="0.56569344">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/UserCrudTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="174" selection-start="2198" selection-end="2198" vertical-scroll-proportion="0.5691203">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/solid5ive/cams/security/SecurityRuntime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="13" selection-start="493" selection-end="493" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/solid5ive/cams/service/internals/UserServiceAdvices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="33" selection-start="630" selection-end="630" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/solid5ive/cams/service/internals/SalesServiceAdvices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="13" selection-start="610" selection-end="610" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/solid5ive/cams/service/internals/MenuServiceAdvices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="29" selection-start="1455" selection-end="1455" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/solid5ive/cams/security/SecurityUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="47" selection-start="391" selection-end="391" vertical-scroll-proportion="0.25485438">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/solid5ive/cams/service/internals/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="75" selection-start="1187" selection-end="1187" vertical-scroll-proportion="0.7281553">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#createUser#0;class#UserServiceImpl#0" expanded="false" />
+            <element signature="method#deleteUser#0;class#UserServiceImpl#0" expanded="false" />
+            <element signature="method#listUserContact#0;class#UserServiceImpl#0" expanded="false" />
+            <element signature="method#listUserContact#1;class#UserServiceImpl#0" expanded="false" />
+            <element signature="method#createUserContact#0;class#UserServiceImpl#0" expanded="false" />
+            <element signature="method#updateUserContact#0;class#UserServiceImpl#0" expanded="false" />
+            <element signature="method#deleteUserContact#0;class#UserServiceImpl#0" expanded="false" />
+            <element signature="method#findUserAccount#0;class#UserServiceImpl#0" expanded="false" />
+            <element signature="method#createUserAccount#0;class#UserServiceImpl#0" expanded="false" />
+            <element signature="method#deleteUserAccount#0;class#UserServiceImpl#0" expanded="false" />
+            <element signature="method#topUpUserAccount#0;class#UserServiceImpl#0" expanded="false" />
+            <element signature="method#refundUserAccount#0;class#UserServiceImpl#0" expanded="false" />
+            <element signature="method#transferBetweenAccount#0;class#UserServiceImpl#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/AspectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="28" selection-start="1154" selection-end="1154" vertical-scroll-proportion="0.29004854">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="128" column="0" selection-start="4210" selection-end="4210" vertical-scroll-proportion="0.7511111">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/solid5ive/cams/service/internals/InfrastructureServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="100" column="83" selection-start="3252" selection-end="3252" vertical-scroll-proportion="0.75555557">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#listCanteens#0;class#InfrastructureServiceImpl#0" expanded="false" />
+            <element signature="method#createCanteen#0;class#InfrastructureServiceImpl#0" expanded="false" />
+            <element signature="method#updateCanteen#0;class#InfrastructureServiceImpl#0" expanded="false" />
+            <element signature="method#deleteCanteen#0;class#InfrastructureServiceImpl#0" expanded="false" />
+            <element signature="method#listStalls#0;class#InfrastructureServiceImpl#0" expanded="false" />
+            <element signature="method#listStallByOwner#0;class#InfrastructureServiceImpl#0" expanded="false" />
+            <element signature="method#createStall#0;class#InfrastructureServiceImpl#0" expanded="false" />
+            <element signature="method#updateStall#0;class#InfrastructureServiceImpl#0" expanded="false" />
+            <element signature="method#deleteStall#0;class#InfrastructureServiceImpl#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/solid5ive/cams/service/internals/InfrastructureServiceAdvices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="0" selection-start="3141" selection-end="3141" vertical-scroll-proportion="0.5777778">
+          <folding>
+            <element signature="method#canteenOptAdvice#0;class#InfrastructureServiceAdvices#0" expanded="false" />
+            <element signature="method#listStallByOwnerAdvice#0;class#InfrastructureServiceAdvices#0" expanded="false" />
+            <element signature="method#createStallAdvice#0;class#InfrastructureServiceAdvices#0" expanded="false" />
+            <element signature="method#updateStallAdvice#0;class#InfrastructureServiceAdvices#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CamsServer</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

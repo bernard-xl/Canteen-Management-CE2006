@@ -1,0 +1,10 @@
+solid5ive.cams.configuration
+solid5ive.cams.data.entities
+solid5ive.cams.data.repositories
+solid5ive.cams.demo.apps
+solid5ive.cams.demo.model
+solid5ive.cams.demo.ui
+solid5ive.cams.security
+solid5ive.cams.service.contracts
+solid5ive.cams.service.dto
+solid5ive.cams.service.internals

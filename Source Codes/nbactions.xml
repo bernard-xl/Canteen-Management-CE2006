@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>run</actionName>
+            <goals>
+                <goal>process-classes</goal>
+                <goal>org.codehaus.mojo:exec-maven-plugin:1.2.1:exec</goal>
+            </goals>
+            <properties>
+                <exec.args>-classpath %classpath solid5ive.cams.demo.apps.DemoApp</exec.args>
+                <exec.executable>java</exec.executable>
+            </properties>
+        </action>
+        <action>
+            <actionName>debug</actionName>
+            <goals>
+                <goal>process-classes</goal>
+                <goal>org.codehaus.mojo:exec-maven-plugin:1.2.1:exec</goal>
+            </goals>
+            <properties>
+                <exec.args>-Xdebug -Xrunjdwp:transport=dt_socket,server=n,address=${jpda.address} -classpath %classpath solid5ive.cams.demo.apps.DemoApp</exec.args>
+                <exec.executable>java</exec.executable>
+                <jpda.listen>true</jpda.listen>
+            </properties>
+        </action>
+        <action>
+            <actionName>profile</actionName>
+            <goals>
+                <goal>process-classes</goal>
+                <goal>org.codehaus.mojo:exec-maven-plugin:1.2.1:exec</goal>
+            </goals>
+            <properties>
+                <exec.args>${profiler.args} -classpath %classpath solid5ive.cams.demo.apps.DemoApp</exec.args>
+                <exec.executable>${profiler.java}</exec.executable>
+            </properties>
+        </action>
+        <action>
+            <actionName>CUSTOM-Assembly</actionName>
+            <displayName>Assembly</displayName>
+            <goals>
+                <goal>assembly:assembly</goal>
+            </goals>
+        </action>
+        <action>
+            <actionName>CUSTOM-Install WebLaF</actionName>
+            <displayName>Install WebLaF</displayName>
+            <goals>
+                <goal>mvn</goal>
+                <goal>install:install-file</goal>
+                <goal>-Dfile=C:\Users\Skim\Desktop\weblaf-1.25.jar</goal>
+                <goal>-DgroupId=weblaf</goal>
+                <goal>-DartifactId=weblaf</goal>
+                <goal>-Dversion=1.25</goal>
+                <goal>-Dpackaging=jar</goal>
+            </goals>
+        </action>
+        <action>
+            <actionName>CUSTOM-WebLaF</actionName>
+            <displayName>WebLaF</displayName>
+            <goals>
+                <goal>install:install-file</goal>
+                <goal>-Dfile=C:\Users\Skim\Desktop\weblaf-1.25.jar</goal>
+                <goal>-DgroupId=weblaf</goal>
+                <goal>-DartifactId=weblaf</goal>
+                <goal>-Dversion=1.25</goal>
+                <goal>-Dpackaging=jar</goal>
+            </goals>
+        </action>
+        <action>
+            <actionName>CUSTOM-Generate Javadoc</actionName>
+            <displayName>Generate Javadoc</displayName>
+            <goals>
+                <goal>javadoc:javadoc</goal>
+            </goals>
+        </action>
+    </actions>
